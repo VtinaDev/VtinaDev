@@ -1,6 +1,6 @@
 # 👋 Hola, soy **VtinaDev**
 
-🌿 **Frontend Developer & Creativa Digital en formación**  
+ **Frontend Developer & Creativa Digital en formación**  
 Creo experiencias web limpias, naturales y con propósito.
 
 ---
