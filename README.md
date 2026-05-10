@@ -21,8 +21,7 @@ Creo experiencias web limpias, naturales y con propósito.
 ---
 
 ### 🔗 Enlaces
-- 💼 LinkedIn: *(añade tu URL)*
-- 🌍 Portfolio: *(cuando lo publiques)*
+- 💼 LinkedIn: *(http://linkedin.com/in/vtinadev)*
 - 🪶 Repos: https://github.com/VtinaDev
 
 > “El código es naturaleza digital: cuando fluye, todo se armoniza.” — **VtinaDev**
